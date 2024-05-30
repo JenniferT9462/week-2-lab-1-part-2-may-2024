@@ -2,3 +2,7 @@ html {
   height: 100%;
   width: 100%;
 }
+.bonus {
+  border: solid 4px navy;
+  border-radius: 40px;
+}
