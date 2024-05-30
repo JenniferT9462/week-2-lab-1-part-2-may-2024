@@ -5,4 +5,16 @@ html {
 .bonus {
   border: solid 4px navy;
   border-radius: 40px;
+  height: 200px;
+  width: 280px
+}
+body {
+  background-color: beige;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.descriptions {
+  margin-left: 50px;
+}
+.oDescriptions {
+  margin-left: 80px;
 }
